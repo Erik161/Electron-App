@@ -44,7 +44,7 @@ debes ingresar el siguiente codigo toma en cuenta que tienes que ingresar el nom
 
 
 
-listo! tu aplicación se estara ejecutando correctamente
+:sunglasses: listo! tu aplicación se estara ejecutando correctamente :raised_hands: :muscle:
 
 ![](/img/3.png)
 
