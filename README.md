@@ -10,7 +10,7 @@ por aca dejo el link de NodeJs para que puedas instalarlo [https://nodejs.org/es
 ![](/img/5.png)
 
 
-## 2. Instala Electron JS
+## 2. Instala ElectronJS
 Te dejo el siguiente link para que tenga mas información sobre Electron y su funcionamiento: (https://electronjs.org/)
 
 ![](/img/6.png)
