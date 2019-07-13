@@ -49,7 +49,6 @@ debes ingresar el siguiente codigo toma en cuenta que tienes que ingresar el nom
 ![](/img/3.png)
 
 
-
 ![](/img/4.png)
 
 
